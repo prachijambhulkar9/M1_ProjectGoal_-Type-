@@ -19,6 +19,4 @@ Star_Delta Convertor is basically very required to electrical engineering studen
 * whenever user enters 0 then code should able to stop running.
 * user should enters only numbers not charactors or any symbols.
 
-## Implementation 
 
-* Implementation of star to delta convertor and delta to star converter is it will make electrical engineers to calculate the values of connection very easily and beacuse of which the time required for calculation will not waste and their will be no human errors in calculations. It will be very usefull in electrical engineering field.
