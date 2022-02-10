@@ -1,4 +1,4 @@
-# M1_ProjectGoal_-Type-
+# M1_star_delta_convertor-Type-
 
 
 # Star_Delta Convertor (SDLC)
