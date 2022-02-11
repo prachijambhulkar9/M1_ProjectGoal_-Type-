@@ -1,10 +1,28 @@
 # M1_star_delta_convertor-Type-
 
 
+## Build Status
+
 ## Codacy Badge
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b8ae3ef692924c2badd8c1077cc377ab)](https://www.codacy.com/gh/prachijambhulkar9/M1_ProjectGoal_-Type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prachijambhulkar9/M1_ProjectGoal_-Type-&amp;utm_campaign=Badge_Grade) 
+
+
+# Folder Description
+
+| Folder Name | Description |
+|:-------:|:-----------:|
+| 0_Certificates | All the required certificates | 
+| 1_Requirments | Detailed document about high/low level requirments SWOT analysis and 5W&1H |
+| 2_Architecture | Structural and flow diagrams of project |
+| 3_Implementation | Detailed coding including test,unity and makefile |
+| 4_TestPlanAndOutput | Includes tables about testcases |
+| 5_Report | Details about project |
+| 6_ImagesAndVideos | Images of working of project |
+| 7_Other | References |
+  
+
 
 # Star_Delta Convertor (SDLC)
 
