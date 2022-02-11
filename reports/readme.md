@@ -34,5 +34,15 @@ Star_Delta Convertor is basically very required to electrical engineering studen
 * whenever user enters 0 then code should able to stop running.
 * user should enters only numbers not charactors or any symbols.
 
+
+# Architecture
+
+# Flow Chart of Project
+
+
+![star delta convertor dig](https://user-images.githubusercontent.com/99121577/153557800-e5e2bc39-0599-45c6-8edb-00c3168d2d9b.png)
+
+
+
 # Referance
 https://github.com/stepin654321/MiniProject_Template.git
