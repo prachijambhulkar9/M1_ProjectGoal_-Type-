@@ -13,14 +13,14 @@
 
 | Folder Name | Description |
 |:-------:|:-----------:|
-| 0_Certificates | All the required certificates | 
-| 1_Requirments | Detailed document about high/low level requirments SWOT analysis and 5W&1H |
-| 2_Architecture | Structural and flow diagrams of project |
-| 3_Implementation | Detailed coding including test,unity and makefile |
-| 4_TestPlanAndOutput | Includes tables about testcases |
-| 5_Report | Details about project |
-| 6_ImagesAndVideos | Images of working of project |
-| 7_Other | References |
+| Certificates | All the required certificates | 
+| Requirments | Detailed document about high/low level requirments SWOT analysis and 5W&1H |
+| Architecture | flow diagrams of project |
+| Implementation | Detailed coding including test,unity and makefile |
+| TestPlanAndOutput | Includes tables about testcases |
+| Report | Details about project |
+| Images | Images of working of project |
+| Other | References |
   
 
 
