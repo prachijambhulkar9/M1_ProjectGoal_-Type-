@@ -5,9 +5,9 @@
 
 ## Build Status
 
-
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b8ae3ef692924c2badd8c1077cc377ab)](https://www.codacy.com/gh/prachijambhulkar9/M1_ProjectGoal_-Type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prachijambhulkar9/M1_ProjectGoal_-Type-&amp;utm_campaign=Badge_Grade) 
+| Codacy Badge     |
+|:-------------------------------------------------------------------------------------------------------------:|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b8ae3ef692924c2badd8c1077cc377ab)](https://www.codacy.com/gh/prachijambhulkar9/M1_ProjectGoal_-Type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prachijambhulkar9/M1_ProjectGoal_-Type-&amp;utm_campaign=Badge_Grade) |
 
 
 # Folder Description
