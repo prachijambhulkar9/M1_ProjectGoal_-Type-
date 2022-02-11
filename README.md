@@ -6,9 +6,9 @@
 ## Build Status
 
 
-| Codacy Code Quality                                                                                  | code grade            | codiga code quality
+| Codacy Code Quality                                                                                  | codiga code quality          | code grade
 |:-------------------------------------------------------------------------------------------------------------:|:---------------------:|:-------------------------
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b8ae3ef692924c2badd8c1077cc377ab)](https://www.codacy.com/gh/prachijambhulkar9/M1_ProjectGoal_-Type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prachijambhulkar9/M1_ProjectGoal_-Type-&amp;utm_campaign=Badge_Grade) | ![Code grade](https://api.codiga.io/project/31105/score/svg)|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b8ae3ef692924c2badd8c1077cc377ab)](https://www.codacy.com/gh/prachijambhulkar9/M1_ProjectGoal_-Type-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prachijambhulkar9/M1_ProjectGoal_-Type-&amp;utm_campaign=Badge_Grade) | ![Code grade](https://api.codiga.io/project/31105/score/svg)|![Code grade](https://api.codiga.io/project/31105/status/svg)|
 
 
 # Folder Description
