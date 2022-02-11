@@ -30,8 +30,8 @@
 
 | ID |    Description                                                                                                                      |Category  | status
 |:--:|:-----------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-----------:|
-|LR01|     If the calculations is impossible the calculator has to display information helping the user to resolve the erroneous situation.|Technical |IMPLEMENTED
-|LRO2|     On encountering a division by 0 the display should read "Cannot divide by 0" and typing the key “C” should reset the calculator.|Technical |IMPLEMENTED                                                                            
+|LR01|     User should enters only numbers not charactors or any symbols.                                                                  |Technical |IMPLEMENTED
+|LRO2|     On encountering choice "0" program should stop running.                                                                         |Technical |IMPLEMENTED                                                                            
 ## SWOT
 * STRENGTHS
   The ultimate strength of star-delta convertor is its innovative, user-friendly and long lasting etc..
