@@ -32,7 +32,7 @@
   
 
 
-# Star_Delta Convertor (SDLC)
+# Star_Delta Convertor
 
 ## Introduction - 
 
@@ -50,5 +50,5 @@ Star_Delta Convertor is basically very required to electrical engineering studen
 * whenever user enters 0 then code should able to stop running.
 * user should enters only numbers not charactors or any symbols.
 
-# Referance
+# Referances
 https://github.com/stepin654321/MiniProject_Template.git
