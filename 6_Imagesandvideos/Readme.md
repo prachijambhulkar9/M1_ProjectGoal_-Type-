@@ -2,13 +2,12 @@
 
 ##  outputs of program
 
-![output 1](https://user-images.githubusercontent.com/99121577/153547754-41b35f17-8a75-41f4-9a75-5e6961ccd362.jpeg)
+![output 1](https://user-images.githubusercontent.com/99121577/153700811-f680c014-f3ca-4927-88bb-13c7631b95e5.jpg)
 
 
-![output2](https://user-images.githubusercontent.com/99121577/153547774-5e2368d6-15d8-4e1e-9ead-28c21ce341e5.jpeg)
+![output2](https://user-images.githubusercontent.com/99121577/153700817-c706a948-cd19-4fd9-88a9-8789dca31747.jpg)
 
 
-![output3](https://user-images.githubusercontent.com/99121577/153547790-f593b69a-4226-4488-a93b-3f92d0a44033.jpeg)
+![output3](https://user-images.githubusercontent.com/99121577/153700821-077440f3-5ff1-4377-b099-5b6af5060718.jpg)
 
-
-![output4](https://user-images.githubusercontent.com/99121577/153547799-d60eceaf-c169-4528-a8b5-d4ba43342737.jpeg)
+![output4](https://user-images.githubusercontent.com/99121577/153700828-515eda01-ca19-44d7-bc14-0aa2cac50205.jpg)
