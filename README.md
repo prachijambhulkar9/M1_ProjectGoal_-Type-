@@ -1,9 +1,9 @@
 # M1_star_delta_convertor-Type-
 
-# Star_Delta Convertor (SDLC)
 
 
-## Build Status
+
+
 
 
 | Codacy Code Quality                                                                                  | codiga code quality      | code grade |Cppcheck| Build-Linux| codeac|
@@ -32,9 +32,9 @@
   
 
 
+# Star_Delta Convertor (SDLC)
 
-
-## Identification of Problem / Challenge - 
+## Introduction - 
 
 Star_Delta Convertor is basically very required to electrical engineering students as the formulas of star to delta conversion and delta to star conversion are very lenghty and confusing. So this calculator will directly gives the values of conversion. only you need to give resistance value and its done then you will get all the converted values.
 
