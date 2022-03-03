@@ -1,7 +1,10 @@
 PROJ_NAME = M1_STARDELTACONVERTER_UTIL
-SRC = star_delta.c 
+SRC = src/main.c\ 
+src/star_delta.c\ 
 
-TEST_SRC=test_star_delta.c unity.c star_delta.c
+TEST_SRC= test/test_star_delta.c\
+Unity/unity.c\ 
+src/star_delta.c\
 
 ifdef OS
 	RM = del/q
@@ -15,12 +18,27 @@ else
 	endif
 endif
 
+
+INC = -Iinc\
+-IUnity\
+
 Build:
-	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 run:Build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 Build_test:
-	gcc $(TEST_SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcc $(TEST_SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 run:Build_test
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
+staticcheck:
+	cppcheck --enable=all -iunity .
+
+dynamiccheck:Build
+	valgrind ./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
+coverage:
+	gcc -fprofile-arcs -ftest-coverage $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcow -a ./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
